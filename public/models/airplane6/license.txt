@@ -1,0 +1,11 @@
+Model Information:
+* title:	Boeing757
+* source:	https://sketchfab.com/3d-models/boeing757-a4cb1a13b72d4f109c081bff625e7c34
+* author:	manilov.ap (https://sketchfab.com/manilov.ap)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Boeing757" (https://sketchfab.com/3d-models/boeing757-a4cb1a13b72d4f109c081bff625e7c34) by manilov.ap (https://sketchfab.com/manilov.ap) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

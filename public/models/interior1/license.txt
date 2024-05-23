@@ -1,0 +1,11 @@
+Model Information:
+* title:	Boeing B-17 Flying Fortress - Matterport
+* source:	https://sketchfab.com/3d-models/boeing-b-17-flying-fortress-matterport-61b5923c02f94db8842c7697877bff8b
+* author:	tosolini (https://sketchfab.com/tosolini)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Boeing B-17 Flying Fortress - Matterport" (https://sketchfab.com/3d-models/boeing-b-17-flying-fortress-matterport-61b5923c02f94db8842c7697877bff8b) by tosolini (https://sketchfab.com/tosolini) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
