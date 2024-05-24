@@ -30,7 +30,7 @@ const ThreeDModel = () => {
 
     const loader = new GLTFLoader();
     loader.load(
-      '/models/wings2/untitled.gltf',
+      '/models/airplane1/scene.gltf',
       (gltf) => {
         const airplane = gltf.scene;
         airplane.scale.set(100, 100, 100);
