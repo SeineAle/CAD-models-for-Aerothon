@@ -1,6 +1,6 @@
 # Aircraft Damage Analysis with 3D GLTF Models
 
-This React application visualizes 3D GLTF models using Three.js and WebGL to analyze and understand the structural damages of an aircraft. The app allows users to interact with the 3D model, modify its properties, and adjust the camera view.
+This React application visualizes 3D GLTF models created using blender, by rendering them using Three.js and WebGL to analyze and understand the structural damages of an aircraft. The app allows users to interact with the 3D model, modify its properties, and adjust the camera view.
 
 ## Table of Contents
 
